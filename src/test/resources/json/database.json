@@ -1,0 +1,6203 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "page",
+      "id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4",
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://blog.brilliantprogrammer.com/machine-learning-roadmap-from-zero-to-pro-complete-2023-e452982a727c"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Machine learning roadmap from zero to pro [complete] — 2023 | by Deepanshu tyagi | Brilliant Programmer",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Machine learning roadmap from zero to pro [complete] — 2023 | by Deepanshu tyagi | Brilliant Programmer",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Machine-learning-roadmap-from-zero-to-pro-complete-2023-by-Deepanshu-tyagi-Brilliant-Program-710f10f9c7004f78bacfd6a4ebc39ba4"
+    },
+    {
+      "object": "page",
+      "id": "33c1f88e-7a70-4a3a-a3a5-4b47af3df13e",
+      "created_time": "2023-03-10T14:23:00.000Z",
+      "last_edited_time": "2023-03-10T14:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/@abdullah18basaran/15-books-you-must-read-2-a22259e10895"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "15 Books you must read(2). These are the global books that must be… | by Abdullah Basaran | Feb, 2023 | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "15 Books you must read(2). These are the global books that must be… | by Abdullah Basaran | Feb, 2023 | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/15-Books-you-must-read-2-These-are-the-global-books-that-must-be-by-Abdullah-Basaran-Feb-202-33c1f88e7a704a3aa3a54b47af3df13e"
+    },
+    {
+      "object": "page",
+      "id": "1d385541-aa71-4b91-8420-0c5c3720a150",
+      "created_time": "2023-03-10T14:19:00.000Z",
+      "last_edited_time": "2023-03-10T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://levelup.gitconnected.com/learning-system-design-in-2023-seven-must-read-papers-9c2f95aedf3a"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learning System Design in 2023: Seven Must-Read Papers | by Arslan Ahmad | Jan, 2023 | Level Up Coding",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learning System Design in 2023: Seven Must-Read Papers | by Arslan Ahmad | Jan, 2023 | Level Up Coding",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Learning-System-Design-in-2023-Seven-Must-Read-Papers-by-Arslan-Ahmad-Jan-2023-Level-Up-Codi-1d385541aa714b9184200c5c3720a150"
+    },
+    {
+      "object": "page",
+      "id": "f6905dc9-4900-42ca-b9c5-be208095fe98",
+      "created_time": "2023-03-10T14:13:00.000Z",
+      "last_edited_time": "2023-03-10T14:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://pradeesh-kumar.medium.com/cool-new-methods-added-to-string-in-java-fcb04cbb657f"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cool new methods added to String in Java | by Pradeesh Kumar | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cool new methods added to String in Java | by Pradeesh Kumar | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Cool-new-methods-added-to-String-in-Java-by-Pradeesh-Kumar-Medium-f6905dc9490042cab9c5be208095fe98"
+    },
+    {
+      "object": "page",
+      "id": "87a5e8db-9aa4-48c1-af0c-b6df96fca87d",
+      "created_time": "2023-03-10T14:05:00.000Z",
+      "last_edited_time": "2023-03-10T14:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/@tararhoseyn/creating-my-first-home-server-2104cc610514"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Creating my first home server. As someone who works in software and… | by Tara Rhoseyn | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Creating my first home server. As someone who works in software and… | by Tara Rhoseyn | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Creating-my-first-home-server-As-someone-who-works-in-software-and-by-Tara-Rhoseyn-Medium-87a5e8db9aa448c1af0cb6df96fca87d"
+    },
+    {
+      "object": "page",
+      "id": "ce0bdc92-a9d0-4e34-904a-138f26b8c4be",
+      "created_time": "2023-03-10T13:23:00.000Z",
+      "last_edited_time": "2023-03-10T13:23:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://python.plainenglish.io/9-things-you-do-that-show-you-are-not-a-python-professional-b8e0681af9e3"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "9 Things You Do That Shows You Are Not A Professional Python Developer | by Adejumo Ridwan Suleiman | Python in Plain English",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "9 Things You Do That Shows You Are Not A Professional Python Developer | by Adejumo Ridwan Suleiman | Python in Plain English",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/9-Things-You-Do-That-Shows-You-Are-Not-A-Professional-Python-Developer-by-Adejumo-Ridwan-Suleiman--ce0bdc92a9d04e34904a138f26b8c4be"
+    },
+    {
+      "object": "page",
+      "id": "8c5f96f8-c143-438a-ade6-ed35259b7b0e",
+      "created_time": "2023-02-11T18:33:00.000Z",
+      "last_edited_time": "2023-02-11T18:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "charles leifer | Write your own miniature Redis with Python",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "charles leifer | Write your own miniature Redis with Python",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/charles-leifer-Write-your-own-miniature-Redis-with-Python-8c5f96f8c143438aade6ed35259b7b0e"
+    },
+    {
+      "object": "page",
+      "id": "7bf4fda3-aa0e-496d-a6fc-579cc2657c16",
+      "created_time": "2023-02-08T22:15:00.000Z",
+      "last_edited_time": "2023-02-08T22:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "A Simple Content-Based Recommendation Engine in Python - Untrod",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "A Simple Content-Based Recommendation Engine in Python - Untrod",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/A-Simple-Content-Based-Recommendation-Engine-in-Python-Untrod-7bf4fda3aa0e496da6fc579cc2657c16"
+    },
+    {
+      "object": "page",
+      "id": "41b2fbc8-b762-4e4d-8608-01852b7f94db",
+      "created_time": "2023-02-08T22:14:00.000Z",
+      "last_edited_time": "2023-02-08T22:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://kopilov-vlad.medium.com/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Write SMS-spam detector with Scikit-learn | by Vladislav Kopylov | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Write SMS-spam detector with Scikit-learn | by Vladislav Kopylov | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Write-SMS-spam-detector-with-Scikit-learn-by-Vladislav-Kopylov-Medium-41b2fbc8b7624e4d860801852b7f94db"
+    },
+    {
+      "object": "page",
+      "id": "7001d2c3-4156-480b-9e22-979c89d75aad",
+      "created_time": "2023-02-08T22:14:00.000Z",
+      "last_edited_time": "2023-02-08T22:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.datacamp.com/tutorial/recommender-systems-python"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Python Recommender Systems: Content Based & Collaborative Filtering Recommendation Engines | DataCamp",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Python Recommender Systems: Content Based & Collaborative Filtering Recommendation Engines | DataCamp",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Python-Recommender-Systems-Content-Based-Collaborative-Filtering-Recommendation-Engines-DataCam-7001d2c34156480b9e22979c89d75aad"
+    },
+    {
+      "object": "page",
+      "id": "73d88f89-06e0-4141-a2d1-3a6df2676b49",
+      "created_time": "2023-02-08T22:13:00.000Z",
+      "last_edited_time": "2023-02-08T22:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/a-continuous-integration-system.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | A Continuous Integration System",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | A Continuous Integration System",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-A-Continuous-Integration-System-73d88f8906e04141a2d13a6df2676b49"
+    },
+    {
+      "object": "page",
+      "id": "e043d2f6-4ecd-4722-b4e6-4b8c3948264c",
+      "created_time": "2023-02-08T22:13:00.000Z",
+      "last_edited_time": "2023-02-08T22:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes - PyImageSearch",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes - PyImageSearch",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/How-to-Build-a-Kick-Ass-Mobile-Document-Scanner-in-Just-5-Minutes-PyImageSearch-e043d2f64ecd4722b4e64b8c3948264c"
+    },
+    {
+      "object": "page",
+      "id": "558d114d-acb7-475c-ad24-adaee4e7d0fc",
+      "created_time": "2023-02-08T22:10:00.000Z",
+      "last_edited_time": "2023-02-08T22:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://kasvith.me/posts/lets-create-a-simple-lb-go/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let's Create a Simple Load Balancer With Go - kasvith.me",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let's Create a Simple Load Balancer With Go - kasvith.me",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Create-a-Simple-Load-Balancer-With-Go-kasvith-me-558d114dacb7475cad24adaee4e7d0fc"
+    },
+    {
+      "object": "page",
+      "id": "cb9af92e-8a35-4d74-aaa7-63e6a7f50a08",
+      "created_time": "2023-02-08T22:07:00.000Z",
+      "last_edited_time": "2023-02-08T22:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "http://blog.luisrei.com/articles/flaskrest.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Implementing a RESTful Web API with Python & Flask",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Implementing a RESTful Web API with Python & Flask",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Implementing-a-RESTful-Web-API-with-Python-Flask-cb9af92e8a354d74aaa763e6a7f50a08"
+    },
+    {
+      "object": "page",
+      "id": "624246bd-4b90-448d-b9ab-4ae58780c053",
+      "created_time": "2023-02-08T22:07:00.000Z",
+      "last_edited_time": "2023-02-08T22:07:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://joaoventura.net/blog/2017/python-webserver/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "João Ventura - Python Webserver",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "João Ventura - Python Webserver",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Jo-o-Ventura-Python-Webserver-624246bd4b90448db9ab4ae58780c053"
+    },
+    {
+      "object": "page",
+      "id": "4161152a-c116-4019-a28e-17d03735ea29",
+      "created_time": "2023-02-08T22:06:00.000Z",
+      "last_edited_time": "2023-02-08T22:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://ruslanspivak.com/lsbaws-part3/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build A Web Server. Part 3. - Ruslan's Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build A Web Server. Part 3. - Ruslan's Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-A-Web-Server-Part-3-Ruslan-s-Blog-4161152ac1164019a28e17d03735ea29"
+    },
+    {
+      "object": "page",
+      "id": "b32b670f-6e46-44ad-acc1-2d69a00531a6",
+      "created_time": "2023-02-08T22:06:00.000Z",
+      "last_edited_time": "2023-02-08T22:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://ruslanspivak.com/lsbaws-part2/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build A Web Server. Part 2. - Ruslan's Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build A Web Server. Part 2. - Ruslan's Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-A-Web-Server-Part-2-Ruslan-s-Blog-b32b670f6e4644adacc12d69a00531a6"
+    },
+    {
+      "object": "page",
+      "id": "64268e3b-00a2-4dc8-a960-d0e3b39afe52",
+      "created_time": "2023-02-08T22:06:00.000Z",
+      "last_edited_time": "2023-02-08T22:06:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://ruslanspivak.com/lsbaws-part1/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build A Web Server. Part 1. - Ruslan's Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build A Web Server. Part 1. - Ruslan's Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-A-Web-Server-Part-1-Ruslan-s-Blog-64268e3b00a24dc8a960d0e3b39afe52"
+    },
+    {
+      "object": "page",
+      "id": "c804be5f-7912-4203-b266-220c965e5b87",
+      "created_time": "2023-02-08T22:05:00.000Z",
+      "last_edited_time": "2023-02-08T22:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/a-simple-web-server.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | A Simple Web Server",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | A Simple Web Server",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-A-Simple-Web-Server-c804be5f79124203b266220c965e5b87"
+    },
+    {
+      "object": "page",
+      "id": "afc0ae4d-4bb8-4e80-8ea2-48c2f812fd63",
+      "created_time": "2023-02-08T22:01:00.000Z",
+      "last_edited_time": "2023-02-08T22:01:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Building a Facial Recognition Pipeline with Deep Learning in Tensorflow | HackerNoon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Building a Facial Recognition Pipeline with Deep Learning in Tensorflow | HackerNoon",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Building-a-Facial-Recognition-Pipeline-with-Deep-Learning-in-Tensorflow-HackerNoon-afc0ae4d4bb84e808ea248c2f812fd63"
+    },
+    {
+      "object": "page",
+      "id": "3469a4b0-d61a-417c-813f-2224fd5c8b66",
+      "created_time": "2023-02-08T21:59:00.000Z",
+      "last_edited_time": "2023-02-08T21:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Developing a License Plate Recognition System with Machine Learning in Python | by Femi Oladeji | Devcenter Square Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Developing a License Plate Recognition System with Machine Learning in Python | by Femi Oladeji | Devcenter Square Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Developing-a-License-Plate-Recognition-System-with-Machine-Learning-in-Python-by-Femi-Oladeji-De-3469a4b0d61a417c813f2224fd5c8b66"
+    },
+    {
+      "object": "page",
+      "id": "d7617118-c5ed-4dff-904b-066456f3dd4c",
+      "created_time": "2023-02-08T21:58:00.000Z",
+      "last_edited_time": "2023-02-08T21:58:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.instructables.com/Create-a-Simple-Python-Text-Editor/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Create a Simple Python Text Editor! : 4 Steps - Instructables",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Create a Simple Python Text Editor! : 4 Steps - Instructables",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Create-a-Simple-Python-Text-Editor-4-Steps-Instructables-d7617118c5ed4dff904b066456f3dd4c"
+    },
+    {
+      "object": "page",
+      "id": "512b1396-77a8-4753-ba4e-9c9d30ae6a66",
+      "created_time": "2023-02-08T21:57:00.000Z",
+      "last_edited_time": "2023-02-08T21:57:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/a-template-engine.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | A Template Engine",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | A Template Engine",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-A-Template-Engine-512b139677a84753ba4e9c9d30ae6a66"
+    },
+    {
+      "object": "page",
+      "id": "0c07dad7-a558-444e-aa5e-7e3c6d720886",
+      "created_time": "2023-02-08T21:56:00.000Z",
+      "last_edited_time": "2023-02-08T21:56:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://simjue.pages.dev/post/2018/07-01-go-unix-shell/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Writing a simple shell in Go",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Writing a simple shell in Go",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Writing-a-simple-shell-in-Go-0c07dad7a558444eaa5e7e3c6d720886"
+    },
+    {
+      "object": "page",
+      "id": "e9017fb4-8539-44a9-92a0-92473753ebf3",
+      "created_time": "2023-02-08T21:54:00.000Z",
+      "last_edited_time": "2023-02-08T21:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://stevenloria.com/tf-idf/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Tutorial: Finding Important Words in Text Using TF-IDF | stevenloria.com",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Tutorial: Finding Important Words in Text Using TF-IDF | stevenloria.com",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Tutorial-Finding-Important-Words-in-Text-Using-TF-IDF-stevenloria-com-e9017fb4853944a992a092473753ebf3"
+    },
+    {
+      "object": "page",
+      "id": "f98b51e0-8ab7-4c72-99bf-5b2c1efc6f72",
+      "created_time": "2023-02-08T21:54:00.000Z",
+      "last_edited_time": "2023-02-08T21:54:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Making text search learn from feedback | by Martin Davtyan | Filament-AI | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Making text search learn from feedback | by Martin Davtyan | Filament-AI | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Making-text-search-learn-from-feedback-by-Martin-Davtyan-Filament-AI-Medium-f98b51e08ab74c7299bf5b2c1efc6f72"
+    },
+    {
+      "object": "page",
+      "id": "9473eea6-e5e1-49ed-a3fc-05fb7e3e0540",
+      "created_time": "2023-02-08T21:53:00.000Z",
+      "last_edited_time": "2023-02-08T21:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://boyter.org/2010/08/build-vector-space-search-engine-python/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Building a Vector Space Indexing Engine in Python | Ben E. C. Boyter",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Building a Vector Space Indexing Engine in Python | Ben E. C. Boyter",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Building-a-Vector-Space-Indexing-Engine-in-Python-Ben-E-C-Boyter-9473eea6e5e149eda3fc05fb7e3e0540"
+    },
+    {
+      "object": "page",
+      "id": "b8c517dd-9984-4543-a717-5c59e6b20e37",
+      "created_time": "2023-02-08T21:51:00.000Z",
+      "last_edited_time": "2023-02-08T21:51:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "A Dash of Technology: Building a search engine using Redis and redis-py",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "A Dash of Technology: Building a search engine using Redis and redis-py",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/A-Dash-of-Technology-Building-a-search-engine-using-Redis-and-redis-py-b8c517dd99844543a7175c59e6b20e37"
+    },
+    {
+      "object": "page",
+      "id": "a95a915e-2b73-4d75-8916-c664f3ea9a74",
+      "created_time": "2023-02-08T21:49:00.000Z",
+      "last_edited_time": "2023-02-08T21:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://ruslanspivak.com/lsbasi-part2/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build A Simple Interpreter. Part 2. - Ruslan's Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-A-Simple-Interpreter-Part-2-Ruslan-s-Blog-a95a915e2b734d758916c664f3ea9a74"
+    },
+    {
+      "object": "page",
+      "id": "5d5d707b-8b6e-4507-8285-62d3626c7351",
+      "created_time": "2023-02-08T21:49:00.000Z",
+      "last_edited_time": "2023-02-08T21:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://ruslanspivak.com/lsbasi-part1/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build A Simple Interpreter. Part 1. - Ruslan's Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-A-Simple-Interpreter-Part-1-Ruslan-s-Blog-5d5d707b8b6e4507828562d3626c7351"
+    },
+    {
+      "object": "page",
+      "id": "90db7d9e-3a7b-4bde-afb5-04e16eba5941",
+      "created_time": "2023-02-08T21:48:00.000Z",
+      "last_edited_time": "2023-02-08T21:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | A Python Interpreter Written in Python",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | A Python Interpreter Written in Python",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-A-Python-Interpreter-Written-in-Python-90db7d9e3a7b4bdeafb504e16eba5941"
+    },
+    {
+      "object": "page",
+      "id": "b698d0c4-cd1c-4c43-8042-02ce41056ef8",
+      "created_time": "2023-02-08T21:29:00.000Z",
+      "last_edited_time": "2023-02-08T21:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://navoshta.com/traffic-signs-classification/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Traffic signs classification with a convolutional network - Alex Staravoitau’s Blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Traffic signs classification with a convolutional network - Alex Staravoitau’s Blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Traffic-signs-classification-with-a-convolutional-network-Alex-Staravoitau-s-Blog-b698d0c4cd1c4c43804202ce41056ef8"
+    },
+    {
+      "object": "page",
+      "id": "7bc3dd8c-565a-4560-b52c-a983319719d6",
+      "created_time": "2023-02-08T21:28:00.000Z",
+      "last_edited_time": "2023-02-08T21:28:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/optical-character-recognition-ocr.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | Optical Character Recognition (OCR)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | Optical Character Recognition (OCR)",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-Optical-Character-Recognition-OCR-7bc3dd8c565a4560b52ca983319719d6"
+    },
+    {
+      "object": "page",
+      "id": "cbaeaa95-8de9-4f4e-b489-4f7a56be963d",
+      "created_time": "2023-02-08T21:26:00.000Z",
+      "last_edited_time": "2023-02-08T21:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let's code a TCP/IP stack, 1: Ethernet & ARP",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let's code a TCP/IP stack, 1: Ethernet & ARP",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-code-a-TCP-IP-stack-1-Ethernet-ARP-cbaeaa958de94f4eb4894f7a56be963d"
+    },
+    {
+      "object": "page",
+      "id": "a20f340f-e156-46a7-81ae-61f7057c343c",
+      "created_time": "2023-02-08T21:20:00.000Z",
+      "last_edited_time": "2023-02-08T21:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.leshenko.net/p/ugit/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Git Internals - Learn by Building Your Own Git",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Git Internals - Learn by Building Your Own Git",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Git-Internals-Learn-by-Building-Your-Own-Git-a20f340fe15646a781ae61f7057c343c"
+    },
+    {
+      "object": "page",
+      "id": "027f9d97-8510-4d48-894a-c66e471c9e6d",
+      "created_time": "2023-02-08T21:17:00.000Z",
+      "last_edited_time": "2023-02-08T21:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://wyag.thb.lt/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Write yourself a Git!",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Write yourself a Git!",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Write-yourself-a-Git-027f9d9785104d48894ac66e471c9e6d"
+    },
+    {
+      "object": "page",
+      "id": "a5c85285-edb5-435a-8196-b6c9cfd11b07",
+      "created_time": "2023-02-08T21:16:00.000Z",
+      "last_edited_time": "2023-02-08T21:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://benhoyt.com/writings/pygit/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/pygit-Just-enough-of-a-Git-client-to-create-a-repo-commit-and-push-itself-to-GitHub-a5c85285edb5435a8196b6c9cfd11b07"
+    },
+    {
+      "object": "page",
+      "id": "91f88c1c-8c98-4a6e-b795-7968558d2763",
+      "created_time": "2023-02-08T15:27:00.000Z",
+      "last_edited_time": "2023-02-08T15:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://pomb.us/build-your-own-react/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build your own React",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build your own React",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-your-own-React-91f88c1c8c984a6eb7957968558d2763"
+    },
+    {
+      "object": "page",
+      "id": "49ebc3cf-b138-479a-82c8-d71fca4a3755",
+      "created_time": "2023-02-08T15:27:00.000Z",
+      "last_edited_time": "2023-02-08T15:27:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://pomb.us/build-your-own-react/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build your own React",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build your own React",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-your-own-React-49ebc3cfb138479a82c8d71fca4a3755"
+    },
+    {
+      "object": "page",
+      "id": "d8b1d91b-fed7-4d16-ba40-c949f08c36af",
+      "created_time": "2023-02-08T15:24:00.000Z",
+      "last_edited_time": "2023-02-08T15:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://omokute.blogspot.com/2012/06/emulation-basics-write-your-own-chip-8.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Emulation Basics: Write your own Chip 8 Emulator/Interpreter | moises' blog",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Emulation Basics: Write your own Chip 8 Emulator/Interpreter | moises' blog",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Emulation-Basics-Write-your-own-Chip-8-Emulator-Interpreter-moises-blog-d8b1d91bfed74d16ba40c949f08c36af"
+    },
+    {
+      "object": "page",
+      "id": "86864464-104e-48a8-b03e-68c2c52bbc39",
+      "created_time": "2023-02-08T15:20:00.000Z",
+      "last_edited_time": "2023-02-08T15:20:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.infoq.com/articles/build-a-container-golang/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build Your Own Container Using Less than 100 Lines of Go",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build Your Own Container Using Less than 100 Lines of Go",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-Your-Own-Container-Using-Less-than-100-Lines-of-Go-86864464104e48a8b03e68c2c52bbc39"
+    },
+    {
+      "object": "page",
+      "id": "e5df52b1-3cb7-420f-982d-88fdb65249d6",
+      "created_time": "2023-02-08T15:19:00.000Z",
+      "last_edited_time": "2023-02-08T15:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://hackernoon.com/3-tricks-for-mastering-docker-with-python-99876412348d"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "3 tricks for mastering Docker with Python | HackerNoon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "3 tricks for mastering Docker with Python | HackerNoon",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/3-tricks-for-mastering-Docker-with-Python-HackerNoon-e5df52b13cb7420f982d88fdb65249d6"
+    },
+    {
+      "object": "page",
+      "id": "39307227-c241-4a59-bd5a-87c086c61952",
+      "created_time": "2023-02-08T15:10:00.000Z",
+      "last_edited_time": "2023-02-08T15:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "charles leifer | Write your own miniature Redis with Python",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "charles leifer | Write your own miniature Redis with Python",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/charles-leifer-Write-your-own-miniature-Redis-with-Python-39307227c2414a59bd5a87c086c61952"
+    },
+    {
+      "object": "page",
+      "id": "b8c0a768-3fa7-4ff4-87b3-bdd259137cc4",
+      "created_time": "2023-02-08T15:09:00.000Z",
+      "last_edited_time": "2023-02-08T15:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/dbdb-dog-bed-database.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | DBDB: Dog Bed Database",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | DBDB: Dog Bed Database",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-DBDB-Dog-Bed-Database-b8c0a7683fa74ff487b3bdd259137cc4"
+    },
+    {
+      "object": "page",
+      "id": "9cbd6f34-9861-4602-a679-b9ddca0e351b",
+      "created_time": "2023-02-08T14:47:00.000Z",
+      "last_edited_time": "2023-02-08T14:47:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://flaviocopes.com/book/read/go/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "The Go Handbook",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "The Go Handbook",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/The-Go-Handbook-9cbd6f3498614602a679b9ddca0e351b"
+    },
+    {
+      "object": "page",
+      "id": "2bbe021c-fd71-4da7-a55c-dde15420cdad",
+      "created_time": "2023-02-08T14:46:00.000Z",
+      "last_edited_time": "2023-02-08T14:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://flaviocopes.com/go-tutorial-lolcat/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build a Command Line app with Go: lolcat",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build a Command Line app with Go: lolcat",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-a-Command-Line-app-with-Go-lolcat-2bbe021cfd714da7a55cdde15420cdad"
+    },
+    {
+      "object": "page",
+      "id": "ac7dd007-6ffc-4034-b3cc-13360787dccd",
+      "created_time": "2023-02-08T14:42:00.000Z",
+      "last_edited_time": "2023-02-08T14:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.freecodecamp.org/news/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Create a Twitter Bot in Python Using Tweepy",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Create a Twitter Bot in Python Using Tweepy",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Create-a-Twitter-Bot-in-Python-Using-Tweepy-ac7dd0076ffc4034b3cc13360787dccd"
+    },
+    {
+      "object": "page",
+      "id": "69808f95-8b52-47aa-ac41-b3a360a51c20",
+      "created_time": "2023-02-08T14:38:00.000Z",
+      "last_edited_time": "2023-02-08T14:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://new.pythonforengineers.com/blog/build-a-reddit-bot-part-2-reply-to-posts/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build a Reddit Bot Part 2: Reply to posts",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build a Reddit Bot Part 2: Reply to posts",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-a-Reddit-Bot-Part-2-Reply-to-posts-69808f958b5247aaac41b3a360a51c20"
+    },
+    {
+      "object": "page",
+      "id": "ec75b86c-31bf-4a0f-814f-e33870ec1bd9",
+      "created_time": "2023-02-08T14:37:00.000Z",
+      "last_edited_time": "2023-02-08T14:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://new.pythonforengineers.com/blog/build-a-reddit-bot-part-1/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build a Reddit Bot Part 1",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build a Reddit Bot Part 1",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-a-Reddit-Bot-Part-1-ec75b86c31bf4a0f814fe33870ec1bd9"
+    },
+    {
+      "object": "page",
+      "id": "87cf990a-8c32-44c3-9392-bf239dfe30ea",
+      "created_time": "2023-02-08T14:26:00.000Z",
+      "last_edited_time": "2023-02-08T14:26:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/crypto-currently/lets-make-the-tiniest-blockchain-bigger-ac360a328f4d"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Make the Tiniest Blockchain Bigger | by Gerald Nash | Crypto Currently | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Make the Tiniest Blockchain Bigger | by Gerald Nash | Crypto Currently | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Make-the-Tiniest-Blockchain-Bigger-by-Gerald-Nash-Crypto-Currently-Medium-87cf990a8c3244c39392bf239dfe30ea"
+    },
+    {
+      "object": "page",
+      "id": "89dd647c-03fb-4fb3-a2bd-46a8000c34aa",
+      "created_time": "2023-02-08T14:19:00.000Z",
+      "last_edited_time": "2023-02-08T14:19:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Let’s Build the Tiniest Blockchain | by Gerald Nash | Crypto Currently | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Let’s Build the Tiniest Blockchain | by Gerald Nash | Crypto Currently | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Let-s-Build-the-Tiniest-Blockchain-by-Gerald-Nash-Crypto-Currently-Medium-89dd647c03fb4fb3a2bd46a8000c34aa"
+    },
+    {
+      "object": "page",
+      "id": "ceef68fe-ccac-4a5f-9634-bab8014d6a03",
+      "created_time": "2023-02-08T14:17:00.000Z",
+      "last_edited_time": "2023-02-08T14:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "A Practical Introduction to Blockchain with Python // Adil Moujahid // Data Analytics and more",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "A Practical Introduction to Blockchain with Python // Adil Moujahid // Data Analytics and more",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/A-Practical-Introduction-to-Blockchain-with-Python-Adil-Moujahid-Data-Analytics-and-more-ceef68feccac4a5f9634bab8014d6a03"
+    },
+    {
+      "object": "page",
+      "id": "78ef0ea1-fd99-40e5-a4b3-e9ada2d188ab",
+      "created_time": "2023-02-08T14:15:00.000Z",
+      "last_edited_time": "2023-02-08T14:15:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "http://ecomunsing.com/build-your-own-blockchain"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Build Your Own Blockchain: A Python Tutorial – @EcoMunsing",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Build Your Own Blockchain: A Python Tutorial – @EcoMunsing",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Build-Your-Own-Blockchain-A-Python-Tutorial-EcoMunsing-78ef0ea1fd9940e5a4b3e9ada2d188ab"
+    },
+    {
+      "object": "page",
+      "id": "0cccc9b6-cc54-409f-9f19-94d320eca103",
+      "created_time": "2023-02-08T14:10:00.000Z",
+      "last_edited_time": "2023-02-08T14:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://hackernoon.com/learn-blockchains-by-building-one-117428612f46"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Learn Blockchains by Building One | HackerNoon",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Learn Blockchains by Building One | HackerNoon",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Learn-Blockchains-by-Building-One-HackerNoon-0cccc9b6cc54409f9f1994d320eca103"
+    },
+    {
+      "object": "page",
+      "id": "7905440d-1bd2-4073-a70b-3878371faff9",
+      "created_time": "2023-02-08T12:42:00.000Z",
+      "last_edited_time": "2023-02-08T12:42:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://markuseliasson.se/article/bittorrent-in-python/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "A BitTorrent client in Python 3.5 · Markus Eliasson",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "A BitTorrent client in Python 3.5 · Markus Eliasson",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/A-BitTorrent-client-in-Python-3-5-Markus-Eliasson-7905440d1bd24073a70b3878371faff9"
+    },
+    {
+      "object": "page",
+      "id": "eabe3df8-3295-44fb-b095-bb14ecce7e42",
+      "created_time": "2023-02-08T12:39:00.000Z",
+      "last_edited_time": "2023-02-08T12:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://bitesofcode.wordpress.com/2018/09/16/augmented-reality-with-python-and-opencv-part-2/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Augmented Reality with Python and OpenCV (part 2) – Bites of code",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Augmented Reality with Python and OpenCV (part 2) – Bites of code",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Augmented-Reality-with-Python-and-OpenCV-part-2-Bites-of-code-eabe3df8329544fbb095bb14ecce7e42"
+    },
+    {
+      "object": "page",
+      "id": "bc4858fb-db07-473a-ad1a-8f1096ba04e1",
+      "created_time": "2023-02-08T12:37:00.000Z",
+      "last_edited_time": "2023-02-08T12:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Augmented reality with Python and OpenCV (part 1) – Bites of code",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Augmented reality with Python and OpenCV (part 1) – Bites of code",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Augmented-reality-with-Python-and-OpenCV-part-1-Bites-of-code-bc4858fbdb07473aad1a8f1096ba04e1"
+    },
+    {
+      "object": "page",
+      "id": "1e41673f-2fe0-4f09-a556-0438b373cbf7",
+      "created_time": "2023-02-08T12:30:00.000Z",
+      "last_edited_time": "2023-02-08T12:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://aosabook.org/en/500L/a-3d-modeller.html"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "500 Lines or Less | A 3D Modeller",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "500 Lines or Less | A 3D Modeller",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/500-Lines-or-Less-A-3D-Modeller-1e41673f2fe04f09a5560438b373cbf7"
+    },
+    {
+      "object": "page",
+      "id": "d22a7105-aed2-4365-a25b-7d651cf847a3",
+      "created_time": "2022-12-23T15:13:00.000Z",
+      "last_edited_time": "2022-12-23T15:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://medium.com/@jeantimex/how-to-configure-iterm2-and-vim-like-a-pro-on-macos-e303d25d5b5c"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Configure iTerm2 and Vim like a Pro | by Yong Su | Medium",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Configure iTerm2 and Vim like a Pro | by Yong Su | Medium",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Configure-iTerm2-and-Vim-like-a-Pro-by-Yong-Su-Medium-d22a7105aed24365a25b7d651cf847a3"
+    },
+    {
+      "object": "page",
+      "id": "966d6526-f69f-438d-a740-988dbe38ed96",
+      "created_time": "2022-12-23T14:35:00.000Z",
+      "last_edited_time": "2022-12-23T14:35:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": "https://www.chrisatmachine.com/blog/category/macOS/01-macos-developer-setup"
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "MacOS Developer Setup",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "MacOS Developer Setup",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/MacOS-Developer-Setup-966d6526f69f438da740988dbe38ed96"
+    },
+    {
+      "object": "page",
+      "id": "96f991dc-bb02-4d17-8a34-7acb3d118063",
+      "created_time": "2022-07-09T15:43:00.000Z",
+      "last_edited_time": "2022-07-09T15:44:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Alesi about LeClerc",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Alesi about LeClerc",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Alesi-about-LeClerc-96f991dcbb024d178a347acb3d118063"
+    },
+    {
+      "object": "page",
+      "id": "61013635-efd5-46f9-b703-54e9d0a33d5c",
+      "created_time": "2022-02-17T07:28:00.000Z",
+      "last_edited_time": "2022-02-17T07:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Rolling tasks DB",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Rolling tasks DB",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Rolling-tasks-DB-61013635efd546f9b70354e9d0a33d5c"
+    },
+    {
+      "object": "page",
+      "id": "345f617b-393a-4b41-8a65-3ca9ed88e472",
+      "created_time": "2021-12-14T17:46:00.000Z",
+      "last_edited_time": "2021-12-14T17:46:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "How To Watch Ghost in the Shell",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "How To Watch Ghost in the Shell",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/How-To-Watch-Ghost-in-the-Shell-345f617b393a4b418a653ca9ed88e472"
+    },
+    {
+      "object": "page",
+      "id": "1aa2e4dd-902d-4ac9-ae2f-d9c85d60d103",
+      "created_time": "2021-12-10T13:50:00.000Z",
+      "last_edited_time": "2021-12-14T17:22:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Maximizing Productivity, Physical & Mental Health with Daily Tools | Huberman Lab Podcast #28",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Maximizing Productivity, Physical & Mental Health with Daily Tools | Huberman Lab Podcast #28",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": {
+            "id": "db36fd0d-1189-46d0-ac56-85b8bbf38d68",
+            "name": "Health",
+            "color": "green"
+          }
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Maximizing-Productivity-Physical-Mental-Health-with-Daily-Tools-Huberman-Lab-Podcast-28-1aa2e4dd902d4ac9ae2fd9c85d60d103"
+    },
+    {
+      "object": "page",
+      "id": "fff0360a-d099-45c1-a680-91e12c455d73",
+      "created_time": "2021-11-23T15:19:00.000Z",
+      "last_edited_time": "2021-11-27T11:40:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Update code-server",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Update code-server",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Update-code-server-fff0360ad09945c1a68091e12c455d73"
+    },
+    {
+      "object": "page",
+      "id": "39f56aab-5952-451d-99df-c645c859e325",
+      "created_time": "2021-08-09T10:13:00.000Z",
+      "last_edited_time": "2021-08-13T09:39:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Interview Notes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Interview Notes",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Interview-Notes-39f56aab5952451d99dfc645c859e325"
+    },
+    {
+      "object": "page",
+      "id": "cb26b736-ad1e-4386-a0fd-62e5bd1c9568",
+      "created_time": "2021-08-06T06:45:00.000Z",
+      "last_edited_time": "2021-08-06T07:53:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Ximedes Interview",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Ximedes Interview",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Ximedes-Interview-cb26b736ad1e4386a0fd62e5bd1c9568"
+    },
+    {
+      "object": "page",
+      "id": "1784dfb6-4596-4cab-ab36-af6dce9b1283",
+      "created_time": "2021-03-31T06:43:00.000Z",
+      "last_edited_time": "2021-03-31T06:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "VIM Commands",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "VIM Commands",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/VIM-Commands-1784dfb645964cabab36af6dce9b1283"
+    },
+    {
+      "object": "page",
+      "id": "980b0793-6274-43c8-8f38-ccedcb07e273",
+      "created_time": "2021-03-03T17:00:00.000Z",
+      "last_edited_time": "2021-03-18T13:05:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Django + React tutorial",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Django + React tutorial",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Django-React-tutorial-980b0793627443c88f38ccedcb07e273"
+    },
+    {
+      "object": "page",
+      "id": "b3151588-f257-456b-b7a4-383a7b4948e1",
+      "created_time": "2021-01-19T14:16:00.000Z",
+      "last_edited_time": "2021-01-19T14:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": null
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": null
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": []
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Express VPN activation code",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Express VPN activation code",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Express-VPN-activation-code-b3151588f257456bb7a4383a7b4948e1"
+    },
+    {
+      "object": "page",
+      "id": "0d1fd3f9-d51b-4f91-aacf-c0dc2272529f",
+      "created_time": "2020-11-25T19:02:00.000Z",
+      "last_edited_time": "2020-11-25T19:03:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+      },
+      "archived": false,
+      "properties": {
+        "Tags": {
+          "id": "%2CTu%25",
+          "type": "select",
+          "select": {
+            "id": "12b15f7c-97c0-43f2-8610-2373ca830348",
+            "name": "Misc",
+            "color": "purple"
+          }
+        },
+        "Created": {
+          "id": "Zl-w",
+          "type": "date",
+          "date": {
+            "start": "2020-11-25",
+            "end": null,
+            "time_zone": null
+          }
+        },
+        "URL": {
+          "id": "rx%3CT",
+          "type": "url",
+          "url": null
+        },
+        "Created by": {
+          "id": "uUIC",
+          "type": "people",
+          "people": [
+            {
+              "object": "user",
+              "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+            }
+          ]
+        },
+        "﻿Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Keys",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Keys",
+              "href": null
+            }
+          ]
+        },
+        "Category": {
+          "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+          "type": "select",
+          "select": null
+        },
+        "Scheduled": {
+          "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+          "type": "select",
+          "select": null
+        },
+        "Status": {
+          "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+          "type": "select",
+          "select": null
+        },
+        "Priority": {
+          "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+          "type": "select",
+          "select": null
+        }
+      },
+      "url": "https://www.notion.so/Keys-0d1fd3f9d51b4f91aacfc0dc2272529f"
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "page",
+  "page": {}
+}

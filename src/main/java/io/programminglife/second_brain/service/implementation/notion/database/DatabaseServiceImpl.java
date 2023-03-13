@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.programminglife.second_brain.service.interfaces.notion.database.DatabaseService;
+import io.programminglife.second_brain.util.NotionRequestUtil;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -18,8 +19,6 @@ import java.util.*;
 
 @Service
 public class DatabaseServiceImpl implements DatabaseService {
-
-    private static final String NOTION_VERSION_HEADER_PARAM = "Notion-Version";
 
     @Value("${notion.api.token}")
     private String notionApiToken;
@@ -39,23 +38,9 @@ public class DatabaseServiceImpl implements DatabaseService {
     public String getDatabase() throws URISyntaxException {
         String notionApiDbUrl = String.format("%s/databases/%s/query", notionApiBaseUrl, notionDbQuickNotesId);
         URI databaseUri = new URI(notionApiDbUrl);
+        NotionRequestUtil notionRequestUtil = new NotionRequestUtil();
 
-        RestTemplate restTemplate = new RestTemplate();
-
-        // this is a POST request, so we are setting up the headers
-        HttpHeaders requestHeaders = new HttpHeaders();
-        requestHeaders.setContentType(MediaType.APPLICATION_JSON);
-        requestHeaders.setAccept(Collections.singletonList(MediaType.APPLICATION_JSON));
-        requestHeaders.setBearerAuth(notionApiToken);
-        requestHeaders.set(NOTION_VERSION_HEADER_PARAM, notionApiNotionVersion);
-
-        // TODO we will send empty request body to start with
-        HttpEntity<String> httpEntity = new HttpEntity<>("", requestHeaders);
-
-        // retrieve the result
-        ResponseEntity<String> databaseResult = restTemplate.postForEntity(databaseUri, httpEntity, String.class);
-
-        return databaseResult.getBody();
+        return notionRequestUtil.post(notionApiToken, notionApiNotionVersion, databaseUri.toString()).getBody();
     }
 
     @Override

@@ -1,5 +1,8 @@
 package io.programminglife.second_brain.service.implementation.notion.database;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import io.programminglife.second_brain.service.interfaces.notion.database.DatabaseService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
@@ -11,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.Collections;
+import java.util.*;
 
 @Service
 public class DatabaseServiceImpl implements DatabaseService {
@@ -54,4 +57,25 @@ public class DatabaseServiceImpl implements DatabaseService {
 
         return databaseResult.getBody();
     }
+
+    @Override
+    public Set<UUID> getDatabasePageIds(String databaseJson) throws JsonProcessingException {
+        Set<UUID> pageIds = new HashSet<>();
+
+        ObjectMapper objectMapper = new ObjectMapper();
+        JsonNode rootNode = objectMapper.readTree(databaseJson);
+        JsonNode resultsNode = rootNode.path("results");
+        Iterator<JsonNode> resultsIterator = resultsNode.elements();
+        while(resultsIterator.hasNext()) {
+            JsonNode resultNode = resultsIterator.next();
+            JsonNode idNode = resultNode.path("id");
+            if (!idNode.isMissingNode()) {
+                pageIds.add(UUID.fromString(idNode.asText()));
+            }
+        }
+
+        return pageIds;
+    }
+
+
 }

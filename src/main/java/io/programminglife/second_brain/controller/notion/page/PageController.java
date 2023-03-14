@@ -1,6 +1,7 @@
-package io.programminglife.second_brain.controller.notion.database;
+package io.programminglife.second_brain.controller.notion.page;
 
-import io.programminglife.second_brain.service.interfaces.notion.database.DatabaseService;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import io.programminglife.second_brain.service.interfaces.notion.page.PageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -12,17 +13,17 @@ import java.net.URISyntaxException;
 import java.util.UUID;
 
 @RestController
-public class DatabaseController {
+public class PageController {
 
     @Autowired
-    private DatabaseService databaseService;
+    private PageService pageService;
 
 
-    @RequestMapping(value = "/database")
-    public ResponseEntity<Object> getDatabase(@RequestParam String databaseId) {
+    @RequestMapping(value = "/page")
+    public ResponseEntity<Object> getPage(@RequestParam String pageId) {
         try {
-            return new ResponseEntity<>(databaseService.getDatabase(databaseId), HttpStatus.OK);
-        } catch (URISyntaxException e) {
+            return new ResponseEntity<>(pageService.getPage(UUID.fromString(pageId)), HttpStatus.OK);
+        } catch (URISyntaxException | JsonProcessingException e) {
             // TODO proper error handling to display error message
             throw new RuntimeException(e);
         }

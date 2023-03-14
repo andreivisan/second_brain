@@ -29,14 +29,11 @@ public class DatabaseServiceImpl implements DatabaseService {
     @Value("${notion.api.notion.version}")
     private String notionApiNotionVersion;
 
-    @Value("${notion.db.quick.notes.id}")
-    private String notionDbQuickNotesId;
-
 
     // TODO pass in the DB uuid and move the Notion Database id to the controller
     @Override
-    public String getDatabase() throws URISyntaxException {
-        String notionApiDbUrl = String.format("%s/databases/%s/query", notionApiBaseUrl, notionDbQuickNotesId);
+    public String getDatabase(String databaseId) throws URISyntaxException {
+        String notionApiDbUrl = String.format("%s/databases/%s/query", notionApiBaseUrl, databaseId);
         URI databaseUri = new URI(notionApiDbUrl);
         NotionRequestUtil notionRequestUtil = new NotionRequestUtil();
 

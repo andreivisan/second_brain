@@ -27,7 +27,7 @@ public class TestDatabaseService {
 
     @Before
     public void setUp() throws Exception {
-        databaseResult = databaseService.getDatabase();
+        databaseResult = databaseService.getDatabase("6a99221c7c904cc493e03e7bd100b711");
     }
 
     @Test

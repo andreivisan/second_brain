@@ -11,7 +11,7 @@ public interface DatabaseService {
 
     // Get database from Notion using DB id
     // Used to get database details in order to retrieve all page ids for a DB
-    public abstract String getDatabase() throws URISyntaxException;
+    public abstract String getDatabase(String databaseId) throws URISyntaxException;
 
     // Get all page ids for a DB
     public abstract Set<UUID> getDatabasePageIds(String databaseJson) throws JsonProcessingException;

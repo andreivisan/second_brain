@@ -19,6 +19,7 @@ public class PageController {
     private PageService pageService;
 
 
+    //TODO instead of using a query param, use a path variable
     @RequestMapping(value = "/page")
     public ResponseEntity<Object> getPage(@RequestParam String pageId) {
         try {

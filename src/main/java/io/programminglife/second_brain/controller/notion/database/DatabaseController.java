@@ -18,6 +18,7 @@ public class DatabaseController {
     private DatabaseService databaseService;
 
 
+    //TODO instead of using a query param, use a path variable
     @RequestMapping(value = "/database")
     public ResponseEntity<Object> getDatabase(@RequestParam String databaseId) {
         try {

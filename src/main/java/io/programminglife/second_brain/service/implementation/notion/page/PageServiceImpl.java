@@ -46,7 +46,7 @@ public class PageServiceImpl implements PageService {
         JsonNode rootNode = objectMapper.readTree(pageResult);
         JsonNode propertiesNode = rootNode.path("properties");
         JsonNode urlNode = propertiesNode.path("URL");
-        JsonNode nameNode = propertiesNode.path("Name");
+        JsonNode nameNode = propertiesNode.path("﻿Name");
         JsonNode titleNode = nameNode.path("title");
         Iterator<JsonNode> titleIterator = titleNode.elements();
         while (titleIterator.hasNext()) {

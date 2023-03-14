@@ -1,0 +1,87 @@
+{
+  "object": "page",
+  "id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4",
+  "created_time": "2023-03-12T12:14:00.000Z",
+  "last_edited_time": "2023-03-12T12:14:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+  },
+  "cover": null,
+  "icon": null,
+  "parent": {
+    "type": "database_id",
+    "database_id": "6a99221c-7c90-4cc4-93e0-3e7bd100b711"
+  },
+  "archived": false,
+  "properties": {
+    "Tags": {
+      "id": "%2CTu%25",
+      "type": "select",
+      "select": null
+    },
+    "Created": {
+      "id": "Zl-w",
+      "type": "date",
+      "date": null
+    },
+    "URL": {
+      "id": "rx%3CT",
+      "type": "url",
+      "url": "https://blog.brilliantprogrammer.com/machine-learning-roadmap-from-zero-to-pro-complete-2023-e452982a727c"
+    },
+    "Created by": {
+      "id": "uUIC",
+      "type": "people",
+      "people": []
+    },
+    "﻿Name": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Machine learning roadmap from zero to pro [complete] — 2023 | by Deepanshu tyagi | Brilliant Programmer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Machine learning roadmap from zero to pro [complete] — 2023 | by Deepanshu tyagi | Brilliant Programmer",
+          "href": null
+        }
+      ]
+    },
+    "Category": {
+      "id": "46609007-a3f4-4769-a392-604a2470c2a5",
+      "type": "select",
+      "select": null
+    },
+    "Scheduled": {
+      "id": "917606c4-7d62-42fc-a156-b387155acf3c",
+      "type": "select",
+      "select": null
+    },
+    "Status": {
+      "id": "9d3cd5e7-183f-431c-9ae6-19f264b1cdfb",
+      "type": "select",
+      "select": null
+    },
+    "Priority": {
+      "id": "d6a860e9-81fb-4f46-9cee-65910c4361ad",
+      "type": "select",
+      "select": null
+    }
+  },
+  "url": "https://www.notion.so/Machine-learning-roadmap-from-zero-to-pro-complete-2023-by-Deepanshu-tyagi-Brilliant-Program-710f10f9c7004f78bacfd6a4ebc39ba4"
+}

@@ -1,0 +1,4336 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "block",
+      "id": "cca33404-1958-4d80-8a82-55686aedb611",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99ebb540-9178-4fe5-8479-d66b472801c5/1f0o03v212HHFU3oMocyCDw.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230315%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230315T155419Z&X-Amz-Expires=3600&X-Amz-Signature=efd17a1f10206cd1366a46d59d1cab6fc51035efaca4596c96d042fd94a858b5&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2023-03-15T16:54:19.833Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "4d7db241-d5e4-4f22-8a6b-83cf48bc8347",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Brilliant Programmer",
+              "link": {
+                "url": "http://brilliantprogrammer.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Brilliant Programmer",
+            "href": "http://brilliantprogrammer.com/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fcb03c97-9c31-4839-89e5-b1846f85063b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Machine learning is the world’s most popular career.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Machine learning is the world’s most popular career.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c3820b2b-1a78-4994-a1a3-55028a10fd82",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "If you are a self-taught programmer, it is a difficult skill to learn and begin, so I will guide you on how to gain machine learning skills and use them to help change the world.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "If you are a self-taught programmer, it is a difficult skill to learn and begin, so I will guide you on how to gain machine learning skills and use them to help change the world.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4930963c-2629-4e08-a02c-4e4a43f08593",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "What is machine learning?",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "What is machine learning?",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5de55e38-fbfd-49c9-95b1-291fc01f2c77",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "The field of machine learning involves using data to teach computers to learn and grow through time, much like humans do.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "The field of machine learning involves using data to teach computers to learn and grow through time, much like humans do.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "53e52bad-c041-4c29-a689-ff87832b6ca8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ML Roadmap",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ML Roadmap",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "bad2690d-cdc0-4793-b2f7-38cd879b21ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Step 1: Learn a programming language",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Step 1: Learn a programming language",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "24a651eb-9654-47f7-8b9e-21ba25677f3d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You can learn either Python or R. I suggest you to learn ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You can learn either Python or R. I suggest you to learn ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "Python",
+              "link": {
+                "url": "https://brilliantprogrammer.com/python/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Python",
+            "href": "https://brilliantprogrammer.com/python/"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": ".",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": ".",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a444199d-c267-4b70-9bea-8dcdc133ef11",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Python is a powerful and popular programming language that includes libraries for machine learning, math, and statistics.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Python is a powerful and popular programming language that includes libraries for machine learning, math, and statistics.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c800941a-3017-46d8-906f-670ce8133296",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pandas, Numpy, and Scikit, for example, can learn.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pandas, Numpy, and Scikit, for example, can learn.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ef38c4ca-c06a-4e3f-989c-ba8cb76a839e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "You must learn sci-kit as well as how to work with a machine learning algorithm.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "You must learn sci-kit as well as how to work with a machine learning algorithm.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5f46e04f-0538-441a-b496-2ef77c0b80cd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Step 2: Learn Linear Algebra",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Step 2: Learn Linear Algebra",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "eb45004b-f55c-4cd1-8a13-86eced38a74e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Linear algebra is a branch of mathematics that deals with vectors, matrices, and linear transformations.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Linear algebra is a branch of mathematics that deals with vectors, matrices, and linear transformations.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1537ee48-a1ed-4669-b0ff-74ba7b6ca2aa",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "It serves as a critical foundation in the field of machine learning.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "It serves as a critical foundation in the field of machine learning.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "450a8b87-2dae-420d-a9e5-8d927c237e00",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Step3: Learn Basic Python libraries",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Step3: Learn Basic Python libraries",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "af4c405b-9ec5-47e6-b606-01f624ee193e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Mainly there are three most important python libraries required to learn machine learning.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Mainly there are three most important python libraries required to learn machine learning.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f7f7c2ad-9ed3-40a8-8faf-9f6157197eb5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Pandas",
+              "link": {
+                "url": "https://pandas.pydata.org/docs/user_guide/10min.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Pandas",
+            "href": "https://pandas.pydata.org/docs/user_guide/10min.html"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e00d8f32-dd3a-4b7b-9ddc-2821c5fd9057",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Numpy",
+              "link": {
+                "url": "https://numpy.org/doc/stable/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Numpy",
+            "href": "https://numpy.org/doc/stable/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6cfb1391-b970-438a-a537-2d4c6048e0c5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sci-kit learn",
+              "link": {
+                "url": "https://scikit-learn.org/stable/tutorial/index.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sci-kit learn",
+            "href": "https://scikit-learn.org/stable/tutorial/index.html"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d8830305-961b-47f8-875b-f4fae51c21c2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There are also many libraries other than these three like TensorFlow, OpenCV-python, PyTorch, etc but these three are prerequisites to learning machine learning using python.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There are also many libraries other than these three like TensorFlow, OpenCV-python, PyTorch, etc but these three are prerequisites to learning machine learning using python.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ba8f4fc1-b12e-4c55-a5e4-9081de80a18e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Step 4: Learn Machine learning algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Step 4: Learn Machine learning algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1628b76b-18db-4d44-ba7f-8ce45f5ad6bc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "There are three types of machine learning algorithms:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "There are three types of machine learning algorithms:",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c942be88-0303-4677-a95c-eb73c7b3dd86",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Supervised machine learning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Supervised machine learning",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3928c7c5-ffea-4ec1-ae17-b666b6ab9d69",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Unsupervised machine learning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Unsupervised machine learning",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d9c6e5f3-40ab-4feb-a827-518d1b97ff9c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "numbered_list_item",
+      "numbered_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Reinforcement machine learning",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Reinforcement machine learning",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "571eeb4a-3365-49ac-b989-2715dbae2098",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Regression Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Regression Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9eb5ab8b-866b-4549-a422-d0b127b6d7a0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Linear Regression",
+              "link": {
+                "url": "https://towardsdatascience.com/linear-regression-using-least-squares-a4c3456e8570"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Linear Regression",
+            "href": "https://towardsdatascience.com/linear-regression-using-least-squares-a4c3456e8570"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "90c28d8f-8e85-4e78-9dfb-26690bf52123",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Logistic Regression",
+              "link": {
+                "url": "https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Logistic Regression",
+            "href": "https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "388263fb-ba4b-48e4-ad78-eafe31b04b9e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Stepwise Regression",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Stepwise_regression"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Stepwise Regression",
+            "href": "https://en.wikipedia.org/wiki/Stepwise_regression"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "98963281-7dd6-4289-be5b-1ff402ce5d81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Multivariate Adaptive Regression Splines (MARS)",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Multivariate Adaptive Regression Splines (MARS)",
+            "href": "https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "78c777e8-e240-431d-9d41-3e764a45bc21",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Locally Estimated Scatterplot Smoothing (LOESS)",
+              "link": {
+                "url": "https://towardsdatascience.com/loess-373d43b03564"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Locally Estimated Scatterplot Smoothing (LOESS)",
+            "href": "https://towardsdatascience.com/loess-373d43b03564"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "79e8dbab-c2c9-4bc0-80c5-0336a0806b3b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Instance-Based Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Instance-Based Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6dca5e77-703b-48d6-b3c2-fbcaf9c64d4f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "k-Nearest Neighbor (kNN)",
+              "link": {
+                "url": "https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "k-Nearest Neighbor (kNN)",
+            "href": "https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e080b77a-823d-4bf1-a2a7-cc67f849921d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Self-Organizing Map (SOM)",
+              "link": {
+                "url": "https://towardsdatascience.com/self-organizing-maps-ff5853a118d4"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Self-Organizing Map (SOM)",
+            "href": "https://towardsdatascience.com/self-organizing-maps-ff5853a118d4"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7e281db5-3da2-4a47-ab88-c73a7dcaa42a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Support Vector Machines (SVM)",
+              "link": {
+                "url": "https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Support Vector Machines (SVM)",
+            "href": "https://towardsdatascience.com/support-vector-machine-simply-explained-fee28eba5496"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1e16877d-2db6-48e9-8867-4878f7dbfc7e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Clustering Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Clustering Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4b5173a9-5a9d-4988-bc44-d693ed80f64d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "k-Means",
+              "link": {
+                "url": "https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "k-Means",
+            "href": "https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d70419b3-2f59-4d4c-84b8-7008f1783d0e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Expectation Maximisation (EM)",
+              "link": {
+                "url": "https://medium.com/@chloebee/the-em-algorithm-explained-52182dbb19d9"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Expectation Maximisation (EM)",
+            "href": "https://medium.com/@chloebee/the-em-algorithm-explained-52182dbb19d9"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1143fd41-e804-452a-8a79-68cd59286085",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hierarchical Clustering",
+              "link": {
+                "url": "https://www.kdnuggets.com/2019/09/hierarchical-clustering.html"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hierarchical Clustering",
+            "href": "https://www.kdnuggets.com/2019/09/hierarchical-clustering.html"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5891dc6e-4673-4a16-9ca2-f860d92d2fc1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bayesian Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bayesian Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3667ed08-a728-4e63-b45d-65a014a5b35e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Naive Bayes",
+              "link": {
+                "url": "https://towardsdatascience.com/naive-bayes-explained-9d2b96f4a9c0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Naive Bayes",
+            "href": "https://towardsdatascience.com/naive-bayes-explained-9d2b96f4a9c0"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fb756efe-ec14-423c-b0d8-7ea0c9db1f12",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gaussian Naive Bayes",
+              "link": {
+                "url": "https://medium.com/@LSchultebraucks/gaussian-naive-bayes-19156306079b"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gaussian Naive Bayes",
+            "href": "https://medium.com/@LSchultebraucks/gaussian-naive-bayes-19156306079b"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8d8d9207-1147-499b-a771-38063cc33918",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Averaged One-Dependence Estimators (AODE)",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Averaged_one-dependence_estimators"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Averaged One-Dependence Estimators (AODE)",
+            "href": "https://en.wikipedia.org/wiki/Averaged_one-dependence_estimators"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "965e23be-cdef-4db7-9e4e-c4a7abe0cec4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bayesian Network (BN)",
+              "link": {
+                "url": "https://towardsdatascience.com/basics-of-bayesian-network-79435e11ae7b"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bayesian Network (BN)",
+            "href": "https://towardsdatascience.com/basics-of-bayesian-network-79435e11ae7b"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "27c65589-3554-4c82-a7f3-4504da1ce7d7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bayesian Belief Network (BBN)",
+              "link": {
+                "url": "https://www.probabilisticworld.com/bayesian-belief-networks-part-1/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bayesian Belief Network (BBN)",
+            "href": "https://www.probabilisticworld.com/bayesian-belief-networks-part-1/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2446b527-d0eb-404a-ae21-7be4c883b962",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Decision Tree Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Decision Tree Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "982e95e4-63cb-48b5-94a8-c365b914e47a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Conditional Decision Trees",
+              "link": {
+                "url": "https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Conditional Decision Trees",
+            "href": "https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "dcca15cd-8609-4e7c-a131-27e437f692f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Classification and Regression Tree (CART)",
+              "link": {
+                "url": "https://www.digitalvidya.com/blog/classification-and-regression-trees/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Classification and Regression Tree (CART)",
+            "href": "https://www.digitalvidya.com/blog/classification-and-regression-trees/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "18fe4ea4-d87c-4cdf-b66a-ca12becb350d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Iterative Dichotomiser 3 (ID3)",
+              "link": {
+                "url": "https://towardsdatascience.com/decision-trees-introduction-id3-8447fd5213e9"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Iterative Dichotomiser 3 (ID3)",
+            "href": "https://towardsdatascience.com/decision-trees-introduction-id3-8447fd5213e9"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "e2d9c4b3-7137-47ec-9917-144049c91828",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "C4.5 and C5.0",
+              "link": {
+                "url": "https://towardsdatascience.com/what-is-the-c4-5-algorithm-and-how-does-it-work-2b971a9e7db0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "C4.5 and C5.0",
+            "href": "https://towardsdatascience.com/what-is-the-c4-5-algorithm-and-how-does-it-work-2b971a9e7db0"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "924ff490-2205-4ce4-85f2-ff9289356e25",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Regularization Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Regularization Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c4b4de76-1a9a-4896-87be-d9e0c327211d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ridge Regression",
+              "link": {
+                "url": "https://towardsdatascience.com/ridge-regression-for-better-usage-2f19b3a202db"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ridge Regression",
+            "href": "https://towardsdatascience.com/ridge-regression-for-better-usage-2f19b3a202db"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "94647988-0bc7-40f3-82c9-320f8513c746",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Least Absolute Shrinkage and Selection Operator (LASSO)",
+              "link": {
+                "url": "https://medium.com/@alielagrebi/regularization-lasso-ridge-regression-105f426b749c"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Least Absolute Shrinkage and Selection Operator (LASSO)",
+            "href": "https://medium.com/@alielagrebi/regularization-lasso-ridge-regression-105f426b749c"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "8acb1486-adbd-4431-ab24-234cfb3ef0f9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Elastic Net",
+              "link": {
+                "url": "https://medium.com/@vijay.swamy1/lasso-versus-ridge-versus-elastic-net-1d57cfc64b58"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Elastic Net",
+            "href": "https://medium.com/@vijay.swamy1/lasso-versus-ridge-versus-elastic-net-1d57cfc64b58"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cf9d5184-f7a2-4ac6-b96b-21ee6fd46df9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Least-Angle Regression (LARS)",
+              "link": {
+                "url": "https://medium.com/acing-ai/what-is-least-angle-regression-lar-bb86756f01d0"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Least-Angle Regression (LARS)",
+            "href": "https://medium.com/acing-ai/what-is-least-angle-regression-lar-bb86756f01d0"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3328873e-581b-4949-9642-96ec09d1bdf2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Association Rule Learning Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Association Rule Learning Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f83f45e6-ce09-4c6f-9171-509497d8495f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Apriori algorithm",
+              "link": {
+                "url": "https://www.digitalvidya.com/blog/apriori-algorithms-in-data-mining/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Apriori algorithm",
+            "href": "https://www.digitalvidya.com/blog/apriori-algorithms-in-data-mining/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "979f7dc3-9bc0-4d8a-837d-c6461a738768",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Eclat algorithm",
+              "link": {
+                "url": "https://medium.com/machine-learning-researcher/association-rule-apriori-and-eclat-algorithm-4e963fa972a4"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Eclat algorithm",
+            "href": "https://medium.com/machine-learning-researcher/association-rule-apriori-and-eclat-algorithm-4e963fa972a4"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7d05abf3-a368-46ac-843f-d1a02e0cd79e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Ensemble Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Ensemble Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d62ca756-d46a-401f-8618-6b74fc07337b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Random Forest",
+              "link": {
+                "url": "https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Random Forest",
+            "href": "https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2e9859d0-f6e9-4860-ba5a-57ec3f506947",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Boosting",
+              "link": {
+                "url": "https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Boosting",
+            "href": "https://medium.com/greyatom/a-quick-guide-to-boosting-in-ml-acf7c1585cb5"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f1a9b75-bd09-4f76-ab8f-e6e6331198cc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bootstrapped Aggregation (Bagging)",
+              "link": {
+                "url": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bootstrapped Aggregation (Bagging)",
+            "href": "https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4df5fc99-b81c-453a-b9eb-ca7a049e5381",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "AdaBoost",
+              "link": {
+                "url": "https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "AdaBoost",
+            "href": "https://towardsdatascience.com/understanding-adaboost-2f94f22d5bfe"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a0ce2d68-2010-447b-9e17-d3db9adea398",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Weighted Average (Blending)",
+              "link": {
+                "url": "https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Weighted Average (Blending)",
+            "href": "https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "76bd4860-c6b1-4475-9708-4eec23b054fb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Stacked Generalization (Stacking)",
+              "link": {
+                "url": "https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Stacked Generalization (Stacking)",
+            "href": "https://medium.com/weightsandbiases/an-introduction-to-model-ensembling-63effc2ca4b3"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4b922a7d-5a72-4130-9c70-cdf5899ff6dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gradient Boosting Machines (GBM)",
+              "link": {
+                "url": "https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gradient Boosting Machines (GBM)",
+            "href": "https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "be8c446c-c4ad-44db-b47b-f8d388df48c6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Gradient Boosted Regression Trees (GBRT)",
+              "link": {
+                "url": "https://www.youtube.com/watch?v=3CC4N4z3GJc"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Gradient Boosted Regression Trees (GBRT)",
+            "href": "https://www.youtube.com/watch?v=3CC4N4z3GJc"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1b998199-3b67-4773-a869-fa555a4cb3ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Artificial Neural Network Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Artificial Neural Network Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "4bb776f7-2f48-4315-9e48-4373e784e88d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Perceptron",
+              "link": {
+                "url": "https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Perceptron",
+            "href": "https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "920fa2dd-54c1-43e1-bdc7-ef3e5986db0f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Multilayer Perceptrons (MLP)",
+              "link": {
+                "url": "https://medium.com/@AI_with_Kain/understanding-of-multilayer-perceptron-mlp-8f179c4a135f"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Multilayer Perceptrons (MLP)",
+            "href": "https://medium.com/@AI_with_Kain/understanding-of-multilayer-perceptron-mlp-8f179c4a135f"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "1a91d1cd-e150-471d-b078-77475854073e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Back-Propagation",
+              "link": {
+                "url": "https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Back-Propagation",
+            "href": "https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "9dd2361b-9587-4d80-b656-5907ee8112eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Stochastic Gradient Descent",
+              "link": {
+                "url": "https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Stochastic Gradient Descent",
+            "href": "https://towardsdatascience.com/stochastic-gradient-descent-clearly-explained-53d239905d31"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "cfcf38d2-b069-4c0e-888a-7b75b9b98b9d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Hopfield Network",
+              "link": {
+                "url": "https://medium.com/@serbanliviu/hopfield-nets-and-the-brain-e5880070cdba"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Hopfield Network",
+            "href": "https://medium.com/@serbanliviu/hopfield-nets-and-the-brain-e5880070cdba"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "91030748-0220-4785-bfb8-ab21370678f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Radial Basis Function Network (RBFN)",
+              "link": {
+                "url": "https://towardsdatascience.com/radial-basis-functions-neural-networks-all-we-need-to-know-9a88cc053448"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Radial Basis Function Network (RBFN)",
+            "href": "https://towardsdatascience.com/radial-basis-functions-neural-networks-all-we-need-to-know-9a88cc053448"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7f740ca6-f463-4351-9650-279d4f3bf262",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Deep Learning Neural Network Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Deep Learning Neural Network Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "98fe3fb1-18df-48eb-ae60-d11b6f36dcab",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Convolutional Neural Network (CNN)",
+              "link": {
+                "url": "https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Convolutional Neural Network (CNN)",
+            "href": "https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "05a073d8-d2ff-40ea-8c9c-a0d259477cf4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Recurrent Neural Networks (RNNs)",
+              "link": {
+                "url": "https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Recurrent Neural Networks (RNNs)",
+            "href": "https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f08d5a29-fdee-43dc-9913-7c9d20accd5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Long Short-Term Memory Networks (LSTMs)",
+              "link": {
+                "url": "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Long Short-Term Memory Networks (LSTMs)",
+            "href": "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d1992e52-fa27-4ac4-82a4-2e7dd6094cad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Stacked Auto-Encoders",
+              "link": {
+                "url": "https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Stacked Auto-Encoders",
+            "href": "https://medium.com/@venkatakrishna.jonnalagadda/sparse-stacked-and-variational-autoencoder-efe5bfe73b64"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6bfce447-c7ab-47ce-8676-9dfeed24c07e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Deep Boltzmann Machine (DBM)",
+              "link": {
+                "url": "https://towardsdatascience.com/restricted-boltzmann-machines-simplified-eab1e5878976"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Deep Boltzmann Machine (DBM)",
+            "href": "https://towardsdatascience.com/restricted-boltzmann-machines-simplified-eab1e5878976"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3fb99886-525c-4a4c-b02b-ae583baf83b5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Deep Belief Networks (DBN)",
+              "link": {
+                "url": "https://medium.com/analytics-army/deep-belief-networks-an-introduction-1d52bb867a25"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Deep Belief Networks (DBN)",
+            "href": "https://medium.com/analytics-army/deep-belief-networks-an-introduction-1d52bb867a25"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a7cce5d7-1bbf-4926-bd46-c84ee39aa986",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Generative Adversarial Networks (GANs)",
+              "link": {
+                "url": "https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Generative Adversarial Networks (GANs)",
+            "href": "https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b81d3c4-2dbc-4add-a05b-6549024cb89f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dimensionality Reduction Algorithms",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dimensionality Reduction Algorithms",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "ab073a3d-d1ea-4b5f-9939-57b46b5975fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Principal Component Analysis (PCA)",
+              "link": {
+                "url": "https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Principal Component Analysis (PCA)",
+            "href": "https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "66951e4d-dc34-405f-a5f2-76119b062131",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Principal Component Regression (PCR)",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Principal_component_regression"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Principal Component Regression (PCR)",
+            "href": "https://en.wikipedia.org/wiki/Principal_component_regression"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "71180c18-b3db-4304-bfba-457c3f74ec09",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Partial Least Squares Regression (PLSR)",
+              "link": {
+                "url": "https://en.wikipedia.org/wiki/Partial_least_squares_regression"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Partial Least Squares Regression (PLSR)",
+            "href": "https://en.wikipedia.org/wiki/Partial_least_squares_regression"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "b0f82ff8-a00d-4e79-8630-a36a823558c3",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Linear Discriminant Analysis (LDA)",
+              "link": {
+                "url": "https://medium.com/@srishtisawla/linear-discriminant-analysis-d38decf48105"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Linear Discriminant Analysis (LDA)",
+            "href": "https://medium.com/@srishtisawla/linear-discriminant-analysis-d38decf48105"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3ebbc781-b572-42a6-8492-c84edbdeca24",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Sammon Mapping",
+              "link": {
+                "url": "https://iq.opengenus.org/principle-of-sammon-mapping/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Sammon Mapping",
+            "href": "https://iq.opengenus.org/principle-of-sammon-mapping/"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "7d9e303f-918a-44f9-804e-876cd8ff6861",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Multidimensional Scaling (MDS)",
+              "link": {
+                "url": "https://medium.com/datadriveninvestor/the-multidimensional-scaling-mds-algorithm-for-dimensionality-reduction-9211f7fa5345"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Multidimensional Scaling (MDS)",
+            "href": "https://medium.com/datadriveninvestor/the-multidimensional-scaling-mds-algorithm-for-dimensionality-reduction-9211f7fa5345"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "c740da33-2e2b-43ee-96a2-dc34a9a8632c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Projection Pursuit",
+              "link": {
+                "url": "https://towardsdatascience.com/interesting-projections-where-pca-fails-fe64ddca73e6"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Projection Pursuit",
+            "href": "https://towardsdatascience.com/interesting-projections-where-pca-fails-fe64ddca73e6"
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "d7530cca-8d26-44ef-a70e-a33161125239",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Do not be scared to look at these; they can be mastered gradually and not all at once.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Do not be scared to look at these; they can be mastered gradually and not all at once.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "5cc0958d-c46d-4d75-a8fd-29130c96c051",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Step 5: Practice and Practice",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Step 5: Practice and Practice",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "caf115e0-96d7-4eb4-87b2-36d1e8f137be",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Last you have to practice these again and again on different datasets.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Last you have to practice these again and again on different datasets.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "a241c092-d9ca-46e1-9174-ea9ae7b61226",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Take part in Kaggle competitions and learn how to improve the accuracy of the algorithm.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Take part in Kaggle competitions and learn how to improve the accuracy of the algorithm.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "6149c94b-458a-446e-a4c8-650c09c2485d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Thank you for reading my blog.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Thank you for reading my blog.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "3dbf25e8-4517-4e59-9200-82e0d9c9ed65",
+      "parent": {
+        "type": "page_id",
+        "page_id": "710f10f9-c700-4f78-bacf-d6a4ebc39ba4"
+      },
+      "created_time": "2023-03-12T12:14:00.000Z",
+      "last_edited_time": "2023-03-12T12:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "732f6f5d-218a-47b2-b3f4-fa119bc6acc6"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "quote",
+      "quote": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Follow me for more such blogs.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Follow me for more such blogs.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false,
+  "type": "block",
+  "block": {}
+}

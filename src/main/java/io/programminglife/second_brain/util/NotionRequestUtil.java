@@ -1,5 +1,6 @@
 package io.programminglife.second_brain.util;
 
+import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.*;
 import org.springframework.web.client.RestTemplate;
 
@@ -11,8 +12,9 @@ public class NotionRequestUtil {
     private static final String X_COM_PERSIST_HEADER_PARAM = "X-COM-PERSIST";
 
 
-    public ResponseEntity<String> get(String notionApiToken, String notionApiNotionVersion, String uri) {
+    public <T> T get(String notionApiToken, String notionApiNotionVersion, String uri, Class<T> responseType) {
         RestTemplate restTemplate = new RestTemplate();
+        ParameterizedTypeReference<T> typeReference = ParameterizedTypeReference.forType(responseType);
 
         // this is a GET request, so we are setting up the headers
         HttpHeaders requestHeaders = headers(notionApiToken, notionApiNotionVersion);
@@ -20,7 +22,7 @@ public class NotionRequestUtil {
         HttpEntity<String> httpEntity = new HttpEntity<String>(requestHeaders);
 
         // retrieve and return the result
-        return restTemplate.exchange(uri, HttpMethod.GET, httpEntity, String.class);
+        return restTemplate.exchange(uri, HttpMethod.GET, httpEntity, typeReference).getBody();
     }
 
     public ResponseEntity<String> post(String notionApiToken, String notionApiNotionVersion, String uri) {

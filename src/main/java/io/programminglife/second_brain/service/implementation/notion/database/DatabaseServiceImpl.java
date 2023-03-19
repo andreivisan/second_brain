@@ -6,16 +6,14 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import io.programminglife.second_brain.service.interfaces.notion.database.DatabaseService;
 import io.programminglife.second_brain.util.NotionRequestUtil;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
-import org.springframework.web.client.RestTemplate;
 
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.*;
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.UUID;
 
 @Service
 public class DatabaseServiceImpl implements DatabaseService {

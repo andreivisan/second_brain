@@ -5,10 +5,8 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Block {
+public class BlockImage {
 
-    private String type;
-    private BlockImage image;
-    private BlockParagraph paragraph;
+    private ImageFile file;
 
 }

@@ -35,7 +35,8 @@ public class PageServiceImpl implements PageService {
         NotionRequestUtil notionRequestUtil = new NotionRequestUtil();
 
         // retrieve page in JSON format
-        String pageResult = notionRequestUtil.get(notionApiToken, notionApiNotionVersion, pageUri.toString()).getBody();
+        // TODO replace String class with Page class
+        String pageResult = notionRequestUtil.get(notionApiToken, notionApiNotionVersion, pageUri.toString(), String.class);
 
         return parseJsonResponseToNote(pageResult);
     }

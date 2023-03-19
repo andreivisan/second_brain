@@ -32,7 +32,6 @@ public class TestBlockService {
     public void testGetBlockForPage() {
         assertThat(this.page).isNotNull();
         assertThat(this.page.getParagraphs()).isNotEmpty();
-        assertThat(this.page.getParagraphs().size()).isGreaterThan(0);
     }
 
 }

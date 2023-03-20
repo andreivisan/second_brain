@@ -1,6 +1,6 @@
 package io.programminglife.second_brain.service.notion.page;
 
-import io.programminglife.second_brain.model.notion.page.Note;
+import io.programminglife.second_brain.model.notion.page.Page;
 import io.programminglife.second_brain.service.interfaces.notion.page.PageService;
 import org.junit.Before;
 import org.junit.Test;
@@ -18,12 +18,12 @@ import static org.assertj.core.api.Assertions.assertThat;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @TestPropertySource(locations = "classpath:application.properties")
-public class TestPageService {
+public class TestPageServiceBlocks {
 
     @Autowired
     private PageService pageService;
 
-    private Optional<Note> pageResult;
+    private Page pageResult;
 
     @Before
     public void setUp() throws Exception {
@@ -32,7 +32,7 @@ public class TestPageService {
 
     @Test
     public void testGetPage() {
-        assertThat(this.pageResult).isNotEmpty();
+        assertThat(this.pageResult).isNotNull();
     }
 
 }

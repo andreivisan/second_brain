@@ -1,6 +1,6 @@
 package io.programminglife.second_brain.controller.block;
 
-import io.programminglife.second_brain.model.notion.page.Page;
+import io.programminglife.second_brain.model.notion.block.PageBlocks;
 import io.programminglife.second_brain.service.interfaces.notion.block.BlockService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -33,8 +33,8 @@ public class TestBlockController {
 
     @Test
     public void testGetDatabase() throws Exception {
-        Page page = new Page();
-        when(blockService.getBlocksForPage(anyString())).thenReturn(page);
+        PageBlocks pageBlocks = new PageBlocks();
+        when(blockService.getBlocksForPage(anyString())).thenReturn(pageBlocks);
 
         mockMvc.perform(get("/blocksForPage?pageId=123"))
                 .andExpect(status().isOk());

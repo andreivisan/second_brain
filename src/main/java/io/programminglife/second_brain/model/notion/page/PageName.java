@@ -3,10 +3,12 @@ package io.programminglife.second_brain.model.notion.page;
 import lombok.Getter;
 import lombok.Setter;
 
+import java.util.List;
+
 @Getter
 @Setter
-public class Page {
+public class PageName {
 
-    private PageProperties properties;
+    private List<PageTitle> title;
 
 }

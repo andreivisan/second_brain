@@ -1,7 +1,6 @@
 package io.programminglife.second_brain.service.implementation.notion.block;
 
-import io.programminglife.second_brain.model.notion.block.Block;
-import io.programminglife.second_brain.model.notion.page.Page;
+import io.programminglife.second_brain.model.notion.block.PageBlocks;
 import io.programminglife.second_brain.service.interfaces.notion.block.BlockService;
 import io.programminglife.second_brain.util.NotionRequestUtil;
 import org.springframework.beans.factory.annotation.Value;
@@ -24,11 +23,11 @@ public class BlockServiceImpl implements BlockService {
 
 
     @Override
-    public Page getBlocksForPage(String pageId) throws URISyntaxException {
+    public PageBlocks getBlocksForPage(String pageId) throws URISyntaxException {
         String notionApiDbUrl = String.format("%s/blocks/%s/children", notionApiBaseUrl, pageId);
         URI databaseUri = new URI(notionApiDbUrl);
         NotionRequestUtil notionRequestUtil = new NotionRequestUtil();
 
-        return notionRequestUtil.get(notionApiToken, notionApiNotionVersion, databaseUri.toString(), Page.class);
+        return notionRequestUtil.get(notionApiToken, notionApiNotionVersion, databaseUri.toString(), PageBlocks.class);
     }
 }

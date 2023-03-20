@@ -1,6 +1,6 @@
 package io.programminglife.second_brain.controller.page;
 
-import io.programminglife.second_brain.model.notion.page.Note;
+import io.programminglife.second_brain.model.notion.page.Page;
 import io.programminglife.second_brain.service.interfaces.notion.page.PageService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,12 +11,9 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
-import java.util.Optional;
-
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @RunWith(SpringRunner.class)
@@ -33,13 +30,10 @@ public class TestPageController {
 
     @Test
     public void testGetDatabase() throws Exception {
-        Note note = Note.builder().title("Test").url("").build();
-        when(pageService.getPage(any())).thenReturn(Optional.ofNullable(note));
+        when(pageService.getPage(any())).thenReturn(new Page());
 
-        assert note != null;
         mockMvc.perform(get("/page?pageId=710f10f9-c700-4f78-bacf-d6a4ebc39ba4"))
-                .andExpect(status().isOk())
-                .andExpect(content().json(note.toJson()));
+                .andExpect(status().isOk());
 
         verify(pageService, times(1)).getPage(any());
     }

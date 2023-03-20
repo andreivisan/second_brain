@@ -5,8 +5,8 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Page {
+public class PageUrl {
 
-    private PageProperties properties;
+    private String url;
 
 }

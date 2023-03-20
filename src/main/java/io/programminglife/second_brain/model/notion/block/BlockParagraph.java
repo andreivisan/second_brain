@@ -13,4 +13,7 @@ public class BlockParagraph {
     @JsonProperty("rich_text")
     private List<BlockRichText> richText;
 
+    @JsonProperty("bulleted_list_items")
+    private List<BlockRichText> bulletedListItems;
+
 }

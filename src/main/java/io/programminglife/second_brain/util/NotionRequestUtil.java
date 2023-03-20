@@ -25,17 +25,17 @@ public class NotionRequestUtil {
         return restTemplate.exchange(uri, HttpMethod.GET, httpEntity, typeReference).getBody();
     }
 
-    public ResponseEntity<String> post(String notionApiToken, String notionApiNotionVersion, String uri) {
+    public <T> T post(String notionApiToken, String notionApiNotionVersion, String uri, Class<T> responseType) {
         RestTemplate restTemplate = new RestTemplate();
 
         // this is a POST request, so we are setting up the headers
         HttpHeaders requestHeaders = headers(notionApiToken, notionApiNotionVersion);
 
-        // TODO we will send empty request body to start with
+        // we will send empty request body to start with
         HttpEntity<String> httpEntity = new HttpEntity<>("", requestHeaders);
 
         // retrieve and return the result
-        return restTemplate.postForEntity(uri, httpEntity, String.class);
+        return restTemplate.postForEntity(uri, httpEntity, responseType).getBody();
     }
 
     private HttpHeaders headers(String notionApiToken, String notionApiNotionVersion) {

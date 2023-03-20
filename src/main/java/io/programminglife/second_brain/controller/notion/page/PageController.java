@@ -24,7 +24,7 @@ public class PageController {
     public ResponseEntity<Object> getPage(@RequestParam String pageId) {
         try {
             return new ResponseEntity<>(pageService.getPage(UUID.fromString(pageId)), HttpStatus.OK);
-        } catch (URISyntaxException | JsonProcessingException e) {
+        } catch (URISyntaxException e) {
             // TODO proper error handling to display error message
             throw new RuntimeException(e);
         }

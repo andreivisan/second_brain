@@ -1,5 +1,6 @@
 package io.programminglife.second_brain.service.notion.database;
 
+import io.programminglife.second_brain.model.notion.database.Database;
 import io.programminglife.second_brain.service.interfaces.notion.database.DatabaseService;
 import org.junit.Before;
 import org.junit.Test;
@@ -8,9 +9,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.TestPropertySource;
 import org.springframework.test.context.junit4.SpringRunner;
-
-import java.util.Set;
-import java.util.UUID;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -22,7 +20,7 @@ public class TestDatabaseService {
     @Autowired
     private DatabaseService databaseService;
 
-    private String databaseResult;
+    private Database databaseResult;
 
 
     @Before
@@ -32,15 +30,8 @@ public class TestDatabaseService {
 
     @Test
     public void testGetDatabase() {
-        assertThat(this.databaseResult).isNotEmpty();
-    }
-
-    @Test
-    public void testGetDatabasePageIds() throws Exception {
-        Set<UUID> databasePageIds = databaseService.getDatabasePageIds(this.databaseResult);
-
-        assertThat(databasePageIds).isNotEmpty();
-        assertThat(databasePageIds.size()).isEqualTo(71);
+        assertThat(this.databaseResult).isNotNull();
+        assertThat(databaseResult.getPages()).isNotEmpty();
     }
 
 }

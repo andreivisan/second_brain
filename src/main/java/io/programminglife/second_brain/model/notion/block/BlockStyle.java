@@ -8,7 +8,9 @@ import lombok.Setter;
 public class BlockStyle {
 
     private boolean bold;
+
     private boolean italic;
+
     private boolean underline;
 
 }

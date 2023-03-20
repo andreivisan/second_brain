@@ -10,7 +10,9 @@ public class BlockRichText {
 
     @JsonProperty("plain_text")
     private String plainText;
+
     private BlockStyle annotations;
+
     private String href;
 
 }

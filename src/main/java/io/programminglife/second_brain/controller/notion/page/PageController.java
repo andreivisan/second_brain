@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.server.ResponseStatusException;
 
 import java.net.URISyntaxException;
 import java.util.UUID;
@@ -19,14 +20,12 @@ public class PageController {
     private PageService pageService;
 
 
-    //TODO instead of using a query param, use a path variable
     @RequestMapping(value = "/page")
     public ResponseEntity<Object> getPage(@RequestParam String pageId) {
         try {
             return new ResponseEntity<>(pageService.getPage(UUID.fromString(pageId)), HttpStatus.OK);
         } catch (URISyntaxException e) {
-            // TODO proper error handling to display error message
-            throw new RuntimeException(e);
+            throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Error while retrieving page due to invalid Notion URI", e);
         }
     }
 

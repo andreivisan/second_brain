@@ -22,7 +22,6 @@ public class DatabaseServiceImpl implements DatabaseService {
     private String notionApiNotionVersion;
 
 
-    // TODO pass in the DB uuid and move the Notion Database id to the controller
     @Override
     public Database getDatabase(String databaseId) throws URISyntaxException {
         String notionApiDbUrl = String.format("%s/databases/%s/query", notionApiBaseUrl, databaseId);

@@ -1,14 +1,13 @@
 package io.programminglife.second_brain.model.notion.block;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
+import java.io.Serializable;
 import java.util.List;
 
-@Getter
-@Setter
-public class BlockParagraph {
+@Data
+public class BlockParagraph implements Serializable {
 
     @JsonProperty("rich_text")
     private List<BlockRichText> richText;

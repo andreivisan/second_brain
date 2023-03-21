@@ -1,11 +1,9 @@
 package io.programminglife.second_brain.model.notion.page;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
-@Getter
-@Setter
+@Data
 public class PageTitle {
 
     @JsonProperty("plain_text")

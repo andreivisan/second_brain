@@ -1,13 +1,11 @@
 package io.programminglife.second_brain.model.notion.database;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
 import java.util.List;
 
-@Getter
-@Setter
+@Data
 public class Database {
 
     @JsonProperty("results")

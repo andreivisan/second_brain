@@ -1,11 +1,11 @@
 package io.programminglife.second_brain.model.notion.block;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
-@Getter
-@Setter
-public class BlockStyle {
+import java.io.Serializable;
+
+@Data
+public class BlockStyle implements Serializable {
 
     private boolean bold;
 

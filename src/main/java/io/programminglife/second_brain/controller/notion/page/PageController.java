@@ -1,8 +1,7 @@
 package io.programminglife.second_brain.controller.notion.page;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import io.programminglife.second_brain.service.interfaces.notion.page.PageService;
-import org.springframework.beans.factory.annotation.Autowired;
+import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,9 +13,9 @@ import java.net.URISyntaxException;
 import java.util.UUID;
 
 @RestController
+@AllArgsConstructor
 public class PageController {
 
-    @Autowired
     private PageService pageService;
 
 
